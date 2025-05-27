@@ -63,7 +63,7 @@ const router = createBrowserRouter(
                 element : <BlogDetailPage/>
             },
             {
-                path : "/resources/help-center",
+                path : "/resources/help center",
                 element : <HelpCenter/>
             },
 
